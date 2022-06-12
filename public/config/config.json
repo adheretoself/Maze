@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x460112de251c4E6C35eCF59F7265181316036470",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x460112de251c4E6C35eCF59F7265181316036470",
+  "NETWORK": {
+    "NAME": "Rinkeby 测试网络",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Maze",
+  "SYMBOL": "Maze",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/maze-83f62juzzf",
+  "SHOW_BACKGROUND": true
+}
